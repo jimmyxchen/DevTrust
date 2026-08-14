@@ -2,7 +2,6 @@
 ## Target: `practical-tutorials/project-based-learning`
 
 **Date**: 2026-07-29
-**Token**: `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`
 **Sample Size**: 200 stargazers
 **Analysis Tool**: DevTrust v1.0.0 (8 signal detectors)
 

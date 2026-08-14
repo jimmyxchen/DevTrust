@@ -52,6 +52,3 @@ dmypy.json
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
-# GitHub Token
-GITHUB_TOKEN=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
