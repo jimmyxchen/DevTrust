@@ -1,0 +1,602 @@
+[
+  {
+    "full_name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "stars": 199883,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "stars": 152964,
+    "language": "Python"
+  },
+  {
+    "full_name": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "stars": 151819,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "stars": 142674,
+    "language": null
+  },
+  {
+    "full_name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "stars": 102252,
+    "language": "Python"
+  },
+  {
+    "full_name": "punkpeye/awesome-mcp-servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "stars": 91985,
+    "language": null
+  },
+  {
+    "full_name": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "stars": 79584,
+    "language": "Python"
+  },
+  {
+    "full_name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "stars": 73189,
+    "language": "Python"
+  },
+  {
+    "full_name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "stars": 72098,
+    "language": "Python"
+  },
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "stars": 69158,
+    "language": "Python"
+  },
+  {
+    "full_name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "stars": 67424,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "headroomlabs-ai/headroom",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "stars": 65565,
+    "language": "Python"
+  },
+  {
+    "full_name": "santifer/career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "stars": 63260,
+    "language": "JavaScript"
+  },
+  {
+    "full_name": "zylon-ai/private-gpt",
+    "url": "https://github.com/zylon-ai/private-gpt",
+    "stars": 57414,
+    "language": "Python"
+  },
+  {
+    "full_name": "hesreallyhim/awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "stars": 51951,
+    "language": "Python"
+  },
+  {
+    "full_name": "HKUDS/nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "stars": 46780,
+    "language": "Python"
+  },
+  {
+    "full_name": "zhayujie/CowAgent",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "stars": 46426,
+    "language": "Python"
+  },
+  {
+    "full_name": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "stars": 46417,
+    "language": "Python"
+  },
+  {
+    "full_name": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "stars": 46165,
+    "language": "Python"
+  },
+  {
+    "full_name": "sickn33/agentic-awesome-skills",
+    "url": "https://github.com/sickn33/agentic-awesome-skills",
+    "stars": 44662,
+    "language": "Python"
+  },
+  {
+    "full_name": "vercel-labs/agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "stars": 40232,
+    "language": "Rust"
+  },
+  {
+    "full_name": "AstrBotDevs/AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "stars": 38850,
+    "language": "Python"
+  },
+  {
+    "full_name": "wshobson/agents",
+    "url": "https://github.com/wshobson/agents",
+    "stars": 38635,
+    "language": "Python"
+  },
+  {
+    "full_name": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "stars": 38310,
+    "language": "JavaScript"
+  },
+  {
+    "full_name": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "stars": 38236,
+    "language": "C"
+  },
+  {
+    "full_name": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "stars": 37566,
+    "language": "Python"
+  },
+  {
+    "full_name": "musistudio/claude-code-router",
+    "url": "https://github.com/musistudio/claude-code-router",
+    "stars": 36517,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "khoj-ai/khoj",
+    "url": "https://github.com/khoj-ai/khoj",
+    "stars": 36399,
+    "language": "Python"
+  },
+  {
+    "full_name": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "stars": 36111,
+    "language": "Rust"
+  },
+  {
+    "full_name": "microsoft/playwright-mcp",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "stars": 35922,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "stars": 33622,
+    "language": "Zig"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "stars": 33291,
+    "language": "Python"
+  },
+  {
+    "full_name": "github/github-mcp-server",
+    "url": "https://github.com/github/github-mcp-server",
+    "stars": 32078,
+    "language": "Go"
+  },
+  {
+    "full_name": "conductor-oss/conductor",
+    "url": "https://github.com/conductor-oss/conductor",
+    "stars": 32066,
+    "language": "Java"
+  },
+  {
+    "full_name": "SigNoz/signoz",
+    "url": "https://github.com/SigNoz/signoz",
+    "stars": 31804,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "stars": 31563,
+    "language": "JavaScript"
+  },
+  {
+    "full_name": "JCodesMore/ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "stars": 31327,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "googleworkspace/cli",
+    "url": "https://github.com/googleworkspace/cli",
+    "stars": 30273,
+    "language": "Rust"
+  },
+  {
+    "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+    "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+    "stars": 30130,
+    "language": "Python"
+  },
+  {
+    "full_name": "ComposioHQ/composio",
+    "url": "https://github.com/ComposioHQ/composio",
+    "stars": 29588,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "tirth8205/code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "stars": 29497,
+    "language": "Python"
+  },
+  {
+    "full_name": "simstudioai/sim",
+    "url": "https://github.com/simstudioai/sim",
+    "stars": 29383,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "labring/FastGPT",
+    "url": "https://github.com/labring/FastGPT",
+    "stars": 29290,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "assafelovic/gpt-researcher",
+    "url": "https://github.com/assafelovic/gpt-researcher",
+    "stars": 28898,
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "stars": 28498,
+    "language": "Python"
+  },
+  {
+    "full_name": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "stars": 28193,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "jarrodwatts/claude-hud",
+    "url": "https://github.com/jarrodwatts/claude-hud",
+    "stars": 27234,
+    "language": "JavaScript"
+  },
+  {
+    "full_name": "PrefectHQ/fastmcp",
+    "url": "https://github.com/PrefectHQ/fastmcp",
+    "stars": 27132,
+    "language": "Python"
+  },
+  {
+    "full_name": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "stars": 26151,
+    "language": "Python"
+  },
+  {
+    "full_name": "apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "stars": 25290,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "enescingoz/awesome-n8n-templates",
+    "url": "https://github.com/enescingoz/awesome-n8n-templates",
+    "stars": 24546,
+    "language": null
+  },
+  {
+    "full_name": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "stars": 24144,
+    "language": "Python"
+  },
+  {
+    "full_name": "EveryInc/compound-engineering-plugin",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "stars": 24119,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "modelcontextprotocol/python-sdk",
+    "url": "https://github.com/modelcontextprotocol/python-sdk",
+    "stars": 23938,
+    "language": "Python"
+  },
+  {
+    "full_name": "Donchitos/Claude-Code-Game-Studios",
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "stars": 23708,
+    "language": "Shell"
+  },
+  {
+    "full_name": "activepieces/activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "stars": 23646,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "stars": 23384,
+    "language": "Python"
+  },
+  {
+    "full_name": "coleam00/Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "stars": 23112,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "stars": 23108,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "Skyvern-AI/skyvern",
+    "url": "https://github.com/Skyvern-AI/skyvern",
+    "stars": 22715,
+    "language": "Python"
+  },
+  {
+    "full_name": "wavetermdev/waveterm",
+    "url": "https://github.com/wavetermdev/waveterm",
+    "stars": 21972,
+    "language": "Go"
+  },
+  {
+    "full_name": "coze-dev/coze-studio",
+    "url": "https://github.com/coze-dev/coze-studio",
+    "stars": 21414,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "mksglu/context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "stars": 19731,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "Avaiga/taipy",
+    "url": "https://github.com/Avaiga/taipy",
+    "stars": 19409,
+    "language": "Python"
+  },
+  {
+    "full_name": "Nagi-ovo/voyager",
+    "url": "https://github.com/Nagi-ovo/voyager",
+    "stars": 19339,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "jnMetaCode/agency-agents-zh",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 19038,
+    "language": "Shell"
+  },
+  {
+    "full_name": "datawhalechina/easy-vibe",
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "stars": 18818,
+    "language": "JavaScript"
+  },
+  {
+    "full_name": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "stars": 17425,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "getmaxun/maxun",
+    "url": "https://github.com/getmaxun/maxun",
+    "stars": 17093,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "microsoft/mcp-for-beginners",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "stars": 16954,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "full_name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "stars": 16274,
+    "language": "Go"
+  },
+  {
+    "full_name": "raga-ai-hub/RagaAI-Catalyst",
+    "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "stars": 16144,
+    "language": "Python"
+  },
+  {
+    "full_name": "googleapis/mcp-toolbox",
+    "url": "https://github.com/googleapis/mcp-toolbox",
+    "stars": 16138,
+    "language": "Go"
+  },
+  {
+    "full_name": "triggerdotdev/trigger.dev",
+    "url": "https://github.com/triggerdotdev/trigger.dev",
+    "stars": 15949,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "MODSetter/SurfSense",
+    "url": "https://github.com/MODSetter/SurfSense",
+    "stars": 15831,
+    "language": "Python"
+  },
+  {
+    "full_name": "GLips/Figma-Context-MCP",
+    "url": "https://github.com/GLips/Figma-Context-MCP",
+    "stars": 15620,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "jlcodes99/cockpit-tools",
+    "url": "https://github.com/jlcodes99/cockpit-tools",
+    "stars": 15416,
+    "language": "Rust"
+  },
+  {
+    "full_name": "wasp-lang/open-saas",
+    "url": "https://github.com/wasp-lang/open-saas",
+    "stars": 15194,
+    "language": "MDX"
+  },
+  {
+    "full_name": "n8n-io/self-hosted-ai-starter-kit",
+    "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
+    "stars": 15161,
+    "language": null
+  },
+  {
+    "full_name": "yusufkaraaslan/Skill_Seekers",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "stars": 14729,
+    "language": "Python"
+  },
+  {
+    "full_name": "YishenTu/claudian",
+    "url": "https://github.com/YishenTu/claudian",
+    "stars": 14639,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "babalae/better-genshin-impact",
+    "url": "https://github.com/babalae/better-genshin-impact",
+    "stars": 14591,
+    "language": "C#"
+  },
+  {
+    "full_name": "travisvn/awesome-claude-skills",
+    "url": "https://github.com/travisvn/awesome-claude-skills",
+    "stars": 14569,
+    "language": null
+  },
+  {
+    "full_name": "web-infra-dev/midscene",
+    "url": "https://github.com/web-infra-dev/midscene",
+    "stars": 14519,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "microsoft/RD-Agent",
+    "url": "https://github.com/microsoft/RD-Agent",
+    "stars": 14178,
+    "language": "Python"
+  },
+  {
+    "full_name": "casdoor/casdoor",
+    "url": "https://github.com/casdoor/casdoor",
+    "stars": 14147,
+    "language": "Go"
+  },
+  {
+    "full_name": "Usagi-org/ai-goofish-monitor",
+    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "stars": 14123,
+    "language": "Python"
+  },
+  {
+    "full_name": "t8y2/dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "stars": 13748,
+    "language": "Rust"
+  },
+  {
+    "full_name": "HBAI-Ltd/Toonflow-app",
+    "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+    "stars": 13588,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "nanobrowser/nanobrowser",
+    "url": "https://github.com/nanobrowser/nanobrowser",
+    "stars": 13540,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "waooAI/waoowaoo",
+    "url": "https://github.com/waooAI/waoowaoo",
+    "stars": 13521,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "Arindam200/awesome-ai-apps",
+    "url": "https://github.com/Arindam200/awesome-ai-apps",
+    "stars": 13353,
+    "language": "Python"
+  },
+  {
+    "full_name": "e2b-dev/E2B",
+    "url": "https://github.com/e2b-dev/E2B",
+    "stars": 13309,
+    "language": "Python"
+  },
+  {
+    "full_name": "modelcontextprotocol/typescript-sdk",
+    "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+    "stars": 13104,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "neuml/txtai",
+    "url": "https://github.com/neuml/txtai",
+    "stars": 12816,
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/agent-framework",
+    "url": "https://github.com/microsoft/agent-framework",
+    "stars": 12690,
+    "language": "Python"
+  },
+  {
+    "full_name": "hangwin/mcp-chrome",
+    "url": "https://github.com/hangwin/mcp-chrome",
+    "stars": 12275,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "creativetimofficial/ui",
+    "url": "https://github.com/creativetimofficial/ui",
+    "stars": 11994,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "EverMind-AI/EverOS",
+    "url": "https://github.com/EverMind-AI/EverOS",
+    "stars": 11900,
+    "language": "Python"
+  },
+  {
+    "full_name": "dataelement/bisheng",
+    "url": "https://github.com/dataelement/bisheng",
+    "stars": 11838,
+    "language": "Python"
+  }
+]

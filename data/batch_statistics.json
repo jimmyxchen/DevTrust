@@ -1,0 +1,162 @@
+{
+  "generated_at": "2026-08-14T13:55:04.616466+00:00",
+  "description": "DevTrust batch analysis of 100 popular GitHub repos for AI/plugins/agent tools",
+  "sample_size_per_repo": 5,
+  "total_repos_attempted": 100,
+  "successful": 100,
+  "failed": 0,
+  "retried_and_succeeded": 37,
+  "still_failing": 0,
+  "retry_strategy": "Up to 5 attempts per repo with exponential backoff for SSL/timeout errors",
+  "failure_reason": "Persistent SSL errors to api.github.com (likely GitHub-side network issues)",
+  "trust_score": {
+    "mean": 0.946,
+    "median": 1.0,
+    "min": 0.5037,
+    "max": 1.0,
+    "std_dev": 0.0893
+  },
+  "fake_star_estimate": {
+    "mean": 0.054,
+    "min": 0.0,
+    "max": 0.4963
+  },
+  "confidence": {
+    "mean": 0.1823
+  },
+  "risk_level_distribution": {
+    "low": 95,
+    "medium": 5
+  },
+  "signal_statistics": {
+    "timing_burst": {
+      "avg_confidence": 0.398,
+      "repos_flagged": 2,
+      "total_repos": 100,
+      "flag_rate": 0.02
+    },
+    "account_age": {
+      "avg_confidence": 0.2731,
+      "repos_flagged": 29,
+      "total_repos": 100,
+      "flag_rate": 0.29
+    },
+    "user_activity": {
+      "avg_confidence": 0.0,
+      "repos_flagged": 0,
+      "total_repos": 100,
+      "flag_rate": 0.0
+    },
+    "creation_cluster": {
+      "avg_confidence": 0.0147,
+      "repos_flagged": 1,
+      "total_repos": 100,
+      "flag_rate": 0.01
+    },
+    "cross_repo": {
+      "avg_confidence": 0.0288,
+      "repos_flagged": 0,
+      "total_repos": 100,
+      "flag_rate": 0.0
+    },
+    "network_analysis": {
+      "avg_confidence": 0.2268,
+      "repos_flagged": 0,
+      "total_repos": 100,
+      "flag_rate": 0.0
+    },
+    "commit_depth": {
+      "avg_confidence": 0.3777,
+      "repos_flagged": 36,
+      "total_repos": 100,
+      "flag_rate": 0.36
+    },
+    "behavioral_pattern": {
+      "avg_confidence": 0.1395,
+      "repos_flagged": 0,
+      "total_repos": 100,
+      "flag_rate": 0.0
+    }
+  },
+  "lowest_trust_repos": [
+    {
+      "full_name": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "trust_score": 0.5037,
+      "fake_star_percentage": 0.4963,
+      "risk_level": "medium"
+    },
+    {
+      "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "trust_score": 0.5873,
+      "fake_star_percentage": 0.4127,
+      "risk_level": "medium"
+    },
+    {
+      "full_name": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "trust_score": 0.6297,
+      "fake_star_percentage": 0.3703,
+      "risk_level": "medium"
+    },
+    {
+      "full_name": "jnMetaCode/agency-agents-zh",
+      "url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "trust_score": 0.6573,
+      "fake_star_percentage": 0.3427,
+      "risk_level": "medium"
+    },
+    {
+      "full_name": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "trust_score": 0.7922,
+      "fake_star_percentage": 0.2078,
+      "risk_level": "medium"
+    },
+    {
+      "full_name": "babalae/better-genshin-impact",
+      "url": "https://github.com/babalae/better-genshin-impact",
+      "trust_score": 0.8005,
+      "fake_star_percentage": 0.1995,
+      "risk_level": "low"
+    },
+    {
+      "full_name": "nanobrowser/nanobrowser",
+      "url": "https://github.com/nanobrowser/nanobrowser",
+      "trust_score": 0.8204,
+      "fake_star_percentage": 0.1796,
+      "risk_level": "low"
+    },
+    {
+      "full_name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "trust_score": 0.822,
+      "fake_star_percentage": 0.178,
+      "risk_level": "low"
+    },
+    {
+      "full_name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "trust_score": 0.828,
+      "fake_star_percentage": 0.172,
+      "risk_level": "low"
+    },
+    {
+      "full_name": "zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "trust_score": 0.8427,
+      "fake_star_percentage": 0.1573,
+      "risk_level": "low"
+    }
+  ],
+  "still_failing_repos": [],
+  "standard_baselines": {
+    "typical_trust_score": "95% mean (range: 50%-100%)",
+    "typical_fake_star_pct": "5.4% mean (range: 0%-50%)",
+    "common_risk_level": "95 low, 5 medium out of 100 repos",
+    "most_active_signal": "commit_depth (flags 36% of repos)",
+    "second_most_active": "account_age (flags 29% of repos)",
+    "inactive_signals": "user_activity, cross_repo, behavioral_pattern (rarely flag with sample=5)"
+  }
+}
